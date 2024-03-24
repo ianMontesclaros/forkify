@@ -16,3 +16,4 @@ Forkify is a web application where users can search, create, and bookmark recipe
 
 6. Responsive Design: The application is designed to be responsive, ensuring a consistent user experience across various devices and screen sizes.
 
+forkify-ianmontesclaros.netlify.app
