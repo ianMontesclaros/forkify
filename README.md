@@ -20,9 +20,9 @@ https://forkify-ianmontesclaros.netlify.app
 
 6. Responsive Design: The application is designed to be responsive, ensuring a consistent user experience across various devices and screen sizes.
 
-# Architecture and Technologies
+# Built with
 
-· Model View Controller (MVC) 
-· Publisher-Subscriber Pattern
-· DOM updating algorithm
-· Forkify API
+* Model View Controller (MVC)
+* Publisher-Subscriber Pattern
+* DOM updating algorithm
+* Forkify API
