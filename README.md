@@ -2,7 +2,7 @@
 
 # Forkify Project
 
-Forkify is a web application where users can search, create, and bookmark recipes.
+Forkify is a VanillaJS application where users can search, create, and bookmark recipes.
 
 https://forkify-ianmontesclaros.netlify.app
 
