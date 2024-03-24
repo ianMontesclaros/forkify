@@ -4,7 +4,7 @@ Forkify is a web application where users can search, create, and bookmark recipe
 
 # Features
 
-1. Recipe Search: Users can search for recipes by entering keywords or ingredients into the search bar. The application fetches recipes from an external API (such as the Food2Fork API) based on the user's query.
+1. Recipe Search: Users can search for recipes by entering keywords or ingredients into the search bar. The application fetches recipes from an external API based on the user's query.
 
 2. Recipe Display: Search results are displayed in a visually appealing manner, showing recipe cards with images, titles, and summary information. Users can scroll through the search results to find recipes that interest them.
 
