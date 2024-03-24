@@ -1,6 +1,6 @@
 <img width="1681" alt="Screenshot 2024-03-24 at 10 19 00 PM" src="https://github.com/ianMontesclaros/forkify/assets/122757362/8255d5e4-0864-48e7-9518-7e197c4f5b93">
 
-# Forkify Project
+# Forkify
 
 Forkify is a VanillaJS application where users can search, create, and bookmark recipes.
 
