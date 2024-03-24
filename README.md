@@ -4,6 +4,8 @@
 
 Forkify is a web application where users can search, create, and bookmark recipes.
 
+https://forkify-ianmontesclaros.netlify.app
+
 # Features
 
 1. Recipe Search: Users can search for recipes by entering keywords or ingredients into the search bar. The application fetches recipes from an external API based on the user's query.
@@ -17,5 +19,3 @@ Forkify is a web application where users can search, create, and bookmark recipe
 5. Ingredient Quantity Adjustment: Users can adjust the quantities of ingredients in a recipe based on the number of servings they intend to make. The application automatically recalculates ingredient amounts accordingly.
 
 6. Responsive Design: The application is designed to be responsive, ensuring a consistent user experience across various devices and screen sizes.
-
-https://forkify-ianmontesclaros.netlify.app
