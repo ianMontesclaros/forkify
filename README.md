@@ -23,6 +23,6 @@ https://forkify-ianmontesclaros.netlify.app
 # Architecture and Technologies
 
 · Model View Controller (MVC) 
-· Publisher-Subscriber pattern
+· Publisher-Subscriber Pattern
 · DOM updating algorithm
 · Forkify API
