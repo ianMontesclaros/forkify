@@ -1,6 +1,6 @@
 # Forkify Project
 
-Forkify is a web application that 
+Forkify is a web application where users can search, create, and bookmark recipes.
 
 # Features
 
@@ -15,3 +15,4 @@ Forkify is a web application that
 5. Ingredient Quantity Adjustment: Users can adjust the quantities of ingredients in a recipe based on the number of servings they intend to make. The application automatically recalculates ingredient amounts accordingly.
 
 6. Responsive Design: The application is designed to be responsive, ensuring a consistent user experience across various devices and screen sizes.
+
